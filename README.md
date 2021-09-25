@@ -1,2 +1,2 @@
 # responsive
-https://mohammadvz.github.io/responsive/index.html
+https://mohammadvz.github.io/mmd/index.html
